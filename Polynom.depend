@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1396220997 source:c:\users\user\documents\c\polynom\blist.cpp
+	<cstdlib>
+	<iostream>
+	"exception.cpp"
+
+1395552245 c:\users\user\documents\c\polynom\exception.cpp
+	<iostream>
+
+1395552245 source:c:\users\user\documents\c\polynom\exception.cpp
+	<iostream>
+
+1396221255 source:c:\users\user\documents\c\polynom\main.cpp
+	<iostream>
+	"blist.cpp"
+
+1396220997 c:\users\user\documents\c\polynom\blist.cpp
+	<cstdlib>
+	<iostream>
+	"exception.cpp"
+
